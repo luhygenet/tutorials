@@ -5,3 +5,4 @@
     'application': True,
     'license': 'LGPL-3',
 }
+
