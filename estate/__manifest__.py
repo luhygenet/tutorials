@@ -4,5 +4,9 @@
     'depends': ['base'],
     'application': True,
     'license': 'LGPL-3',
+
+    'data': [
+        'security/ir.models.access.csv'
+    ]
 }
 
