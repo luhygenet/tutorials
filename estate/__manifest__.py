@@ -6,7 +6,7 @@
     'license': 'LGPL-3',
 
     'data': [
-        'security/ir.models.access.csv'
+        'security/ir.model.access.csv'
     ]
 }
 
